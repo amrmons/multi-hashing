@@ -13,6 +13,7 @@ Algorithms
 * quark
 * x11
 * x13
+* x15
 * nist5
 * scrypt
 * scryptn
@@ -28,6 +29,8 @@ Algorithms
 * shavite3
 * cryptonight
 * boolberry
+* yescrypt
+* neoscrypt
 
 Usage
 -----
